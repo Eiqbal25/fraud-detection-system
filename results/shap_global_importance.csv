@@ -1,0 +1,81 @@
+feature,mean_abs_shap
+incident_severity_Major Damage,0.9036534
+insured_hobbies_freq,0.35446185
+incident_severity_Minor Damage,0.06567009
+incident_state_WV,0.05783625
+vehicle_claim_ratio,0.045559507
+incident_severity_Total Loss,0.03513051
+policy_state_OH,0.03419942
+insured_relationship_own-child,0.018577345
+insured_education_level_Masters,0.015777757
+insured_relationship_husband,0.0134729585
+incident_state_SC,0.013234274
+injury_claim_ratio,0.012268785
+insured_education_level_High School,0.0116964765
+witnesses,0.0087661715
+umbrella_limit,0.007267104
+policy_state_IL,0.0065917163
+insured_education_level_MD,0.0060984557
+policy_csl_100/300,0.005703153
+insured_sex_MALE,0.005600428
+insured_sex_FEMALE,0.005120914
+incident_hour_of_the_day,0.005119281
+collision_type_Side Collision,0.004683093
+authorities_contacted_Ambulance,0.004489878
+total_claim_amount,0.0044088024
+insured_education_level_Associate,0.0043542413
+auto_model_freq,0.0040946174
+bodily_injuries,0.003717892
+capital-loss,0.0034349405
+insured_relationship_not-in-family,0.0023871113
+incident_severity_Trivial Damage,0.002368222
+property_claim,0.0020686677
+injury_claim,0.0019567031
+insured_education_level_JD,0.0018491421
+authorities_contacted_Other,0.0015062728
+insured_occupation_freq,0.0011899996
+capital-gains,0.0011485465
+auto_make_freq,0.0010981394
+incident_city_Riverwood,0.00091873837
+incident_state_NC,0.00073583605
+claim_per_vehicle,0.0007271697
+incident_city_Hillsdale,0.00069942145
+auto_year,0.00063953263
+police_report_available_NO,0.0
+incident_state_NY,0.0
+incident_state_OH,0.0
+incident_state_PA,0.0
+policy_deductable,0.0
+incident_city_Arlington,0.0
+incident_state_VA,0.0
+policy_annual_premium,0.0
+incident_city_Columbus,0.0
+incident_city_Northbend,0.0
+incident_city_Springfield,0.0
+police_report_available_YES,0.0
+property_damage_NO,0.0
+property_damage_YES,0.0
+incident_city_Northbrook,0.0
+policy_csl_250/500,0.0
+authorities_contacted_Police,0.0
+authorities_contacted_Fire,0.0
+policy_state_IN,0.0
+property_claim_ratio,0.0
+insured_education_level_College,0.0
+claim_to_premium_ratio,0.0
+days_to_incident,0.0
+insured_education_level_PhD,0.0
+vehicle_claim,0.0
+insured_relationship_other-relative,0.0
+age,0.0
+insured_relationship_unmarried,0.0
+insured_relationship_wife,0.0
+incident_type_Multi-vehicle Collision,0.0
+incident_type_Parked Car,0.0
+incident_type_Single Vehicle Collision,0.0
+incident_type_Vehicle Theft,0.0
+collision_type_Front Collision,0.0
+collision_type_Rear Collision,0.0
+number_of_vehicles_involved,0.0
+policy_csl_500/1000,0.0
+months_as_customer,0.0

@@ -1,0 +1,5 @@
+{
+  "final_key": "xgboost__smote",
+  "threshold": 0.37856438755989075,
+  "min_recall_target": 0.85
+}

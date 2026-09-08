@@ -1,0 +1,25 @@
+{
+  "test_index": 1,
+  "top_features": [
+    {
+      "feature": "incident_severity_Major Damage",
+      "shap_value": 1.210793375968933
+    },
+    {
+      "feature": "insured_hobbies_freq",
+      "shap_value": -0.1266700029373169
+    },
+    {
+      "feature": "insured_relationship_own-child",
+      "shap_value": -0.12587499618530273
+    },
+    {
+      "feature": "incident_severity_Minor Damage",
+      "shap_value": 0.042661383748054504
+    },
+    {
+      "feature": "vehicle_claim_ratio",
+      "shap_value": -0.03188946843147278
+    }
+  ]
+}
